@@ -5,4 +5,4 @@
 
 具体使用：
   1. 运行jobServer,
-  2. 在要使用任务调度的项目中添加jobCLient依赖，然后在SpringApplication上添加@EnableJobScheduled注解开启任务调度功能
+  2. 在要使用任务调度的项目中添加jobClient依赖，然后在SpringApplication上添加@EnableJobScheduled注解开启任务调度功能
